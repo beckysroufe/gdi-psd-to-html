@@ -3,7 +3,7 @@ GDI Core Introduction to Web Concepts
 
 This is the official Girl Develop It Core Intro Web Concepts course. Material was originally developed by Matt Torbin and Elise Wei.
 
-The course is meant to be taught in a single two-hour workshop. 
+The course is meant to be taught in a single two-hour workshop.
 
 ## Suggested course description is below:
 
